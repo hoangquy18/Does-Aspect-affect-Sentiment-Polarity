@@ -1,5 +1,5 @@
 # Does Aspect affect Sentiment Polarity ?
-Using special character <aspect> to replace aspect and build a No-aspect framework to eliminate sentiment bias.
+Using special character \<aspect\> to replace aspect and build a No-aspect framework to eliminate sentiment bias.
 ## Overview
 * Use Text Normalization, Tone Standardization and Word Segmentation for data preprocessing.
 
