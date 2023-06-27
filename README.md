@@ -30,3 +30,11 @@ Using special character <aspect> to replace aspect and build a No-aspect framewo
 |**PhoBERT-SPC + NA Framework** | 76.69 | 83.77 | **79.42** |
 
 ##  Detailed results between sentiment polarity
+![detai_result](images/detail_sp.png)
+
+## Experimental results of ablation study
+| | Precision | Recall | F1-score |
+|:-------------| :-------------: | :-------------: |  :-------------: |
+| NA Framework | 76.69 | 83.77 | **79.42** |
+| NA w/o CL | 79.64 | 75.22 | 76.16 |
+| NA w/o MAP | 77.55 | 76.41 | 76.26 |
