@@ -9,6 +9,10 @@ Using special character \<aspect\> to replace aspect and build a No-aspect frame
 
 * Compare performance between Original model and No-aspect framework.
 
+| Input | Output |
+| ------------- |:-------------:|
+| Mì ý ở đây ngon lắm, không chê vào đâu đươc í - Không gian cực kì dễ thương =)) thíc hợp với việc hẹn hò haha - Giá cả gọi là hợp lí cho sinh viên tụi mình lâu lâu tự thưởng cho bản thân một bữa ngon lành cũng không gọi là tiếc nuối đâu ạ | {Mì ý, Positive}, {Không gian, Positive}, {Giá cả, Positive}| 
+
 ## Dataset
 
 | Set | Comment | Number of Aspect | Average aspects per comment | Average length per comment | Positive | Neutral | Negative |
