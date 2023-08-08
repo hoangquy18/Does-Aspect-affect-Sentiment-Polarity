@@ -8,6 +8,7 @@ Using special character \<aspect\> to replace aspect and build a No-aspect frame
 * Build a custom Masked Aspect Prediction module to maintain semantic information of the sentence.
 
 * Compare performance between Original model and No-aspect framework.
+<img src="images/overview.png" >
 
 | Input | Output |
 | ------------- |:-------------:|
